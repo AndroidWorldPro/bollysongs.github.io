@@ -4,6 +4,7 @@
   "songsList": [
     {
       "albumName": "",
+      "artistId": 1,
       "artistName": "Guru Randhawa,Manan Bhardwaj",
       "cover": "",
       "duration": 305400,
@@ -17,6 +18,7 @@
     },
     {
       "albumName": "",
+      "artistId": 1,
       "artistName": "Neha Kakkar,Guru Randhawa,Sachet-Parampara",
       "cover": "",
       "duration": 241800,
@@ -30,6 +32,7 @@
     },
     {
       "albumName": "",
+      "artistId": 1,
       "artistName": "Guru Randhawa , Dhvani Bhanushali",
       "cover": "",
       "duration": 205800,
@@ -43,6 +46,7 @@
     },
     {
       "albumName": "",
+      "artistId": 1,
       "artistName": "Guru Randhawa",
       "cover": "",
       "duration": 207600,
@@ -56,6 +60,7 @@
     },
     {
       "albumName": "",
+      "artistId": 1,
       "artistName": "Guru Randhawa",
       "cover": "",
       "duration": 195000,
@@ -69,6 +74,7 @@
     },
     {
       "albumName": "",
+      "artistId": 1,
       "artistName": "Guru Randhawa, Jassi Sidhu, Zahrah S Khan, Tanishk Bagchi, Bally Jagpal, Bhota Jagpal",
       "cover": "",
       "duration": 183000,
@@ -82,6 +88,7 @@
     },
     {
       "albumName": "",
+      "artistId": 1,
       "artistName": "Guru Randhawa, Benny Dayal ",
       "cover": "",
       "duration": 181800,
@@ -93,9 +100,9 @@
       "url": "",
       "year": "2019"
     },
-
     {
       "albumName": "",
+      "artistId": 1,
       "artistName": "Guru Randhawa",
       "cover": "",
       "duration": 192600,
@@ -109,6 +116,7 @@
     },
     {
       "albumName": "",
+      "artistId": 1,
       "artistName": "Guru Randhawa, Tanishk Bagchi, Zahrah S Khan",
       "cover": "",
       "duration": 205800,
@@ -122,6 +130,7 @@
     },
     {
       "albumName": "",
+      "artistId": 1,
       "artistName": "Guru Randhawa,B Praak",
       "cover": "",
       "duration": 267600,
@@ -133,9 +142,9 @@
       "url": "",
       "year": "2021"
     },
-
     {
       "albumName": "",
+      "artistId": 1,
       "artistName": "Tulsi Kumar, Guru Randhawa",
       "cover": "",
       "duration": 251400,
@@ -149,6 +158,7 @@
     },
     {
       "albumName": "",
+      "artistId": 1,
       "artistName": "Guru Randhawa",
       "cover": "",
       "duration": 155400,
@@ -162,6 +172,7 @@
     },
     {
       "albumName": "",
+      "artistId": 1,
       "artistName": "Vee, Guru Randhawa",
       "cover": "",
       "duration": 181200,
@@ -175,6 +186,7 @@
     },
     {
       "albumName": "",
+      "artistId": 1,
       "artistName": "Guru Randhawa",
       "cover": "",
       "duration": 199200,
@@ -188,6 +200,7 @@
     },
     {
       "albumName": "",
+      "artistId": 1,
       "artistName": "Guru Randhawa, Neeti Mohan",
       "cover": "",
       "duration": 181800,
@@ -201,6 +214,7 @@
     },
     {
       "albumName": "",
+      "artistId": 1,
       "artistName": "Guru Randhawa, Jonita Gandhi",
       "cover": "",
       "duration": 147000,
@@ -214,6 +228,7 @@
     },
     {
       "albumName": "",
+      "artistId": 1,
       "artistName": "Guru Randhawa, Tulsi Kumar",
       "cover": "",
       "duration": 201000,
@@ -227,6 +242,7 @@
     },
     {
       "albumName": "",
+      "artistId": 1,
       "artistName": "Guru Randhawa, Nikhita Gandhi",
       "cover": "",
       "duration": 188400,
@@ -240,6 +256,7 @@
     },
     {
       "albumName": "",
+      "artistId": 1,
       "artistName": "Sachet-Parampara, Guru Randhawa",
       "cover": "",
       "duration": 198000,
@@ -253,6 +270,7 @@
     },
     {
       "albumName": "",
+      "artistId": 1,
       "artistName": "Neha Kakkar, Guru Randhawa",
       "cover": "",
       "duration": 190800,
@@ -266,6 +284,7 @@
     },
     {
       "albumName": "",
+      "artistId": 1,
       "artistName": "Guru Randhawa",
       "cover": "",
       "duration": 147000,
@@ -279,6 +298,7 @@
     },
     {
       "albumName": "",
+      "artistId": 1,
       "artistName": "Guru Randhawa, Tanishk Bagchi, Nikhita Gandhi",
       "cover": "",
       "duration": 199200,
@@ -292,6 +312,7 @@
     },
     {
       "albumName": "",
+      "artistId": 1,
       "artistName": "Neeti Mohan, Guru Randhawa",
       "cover": "",
       "duration": 204000,
@@ -305,6 +326,7 @@
     },
     {
       "albumName": "",
+      "artistId": 1,
       "artistName": "Guru Randhawa",
       "cover": "",
       "duration": 193800,
@@ -318,6 +340,7 @@
     },
     {
       "albumName": "",
+      "artistId": 1,
       "artistName": "Guru Randhawa",
       "cover": "",
       "duration": 144600,
@@ -331,6 +354,7 @@
     },
     {
       "albumName": "",
+      "artistId": 1,
       "artistName": "Guru Randhawa",
       "cover": "",
       "duration": 182400,
@@ -344,6 +368,7 @@
     },
     {
       "albumName": "",
+      "artistId": 1,
       "artistName": "Guru Randhawa, Vee",
       "cover": "",
       "duration": 601200,
@@ -357,6 +382,7 @@
     },
     {
       "albumName": "",
+      "artistId": 1,
       "artistName": "Guru Randhawa, Pitbull, Dj Blackout, Dj Money Willz",
       "cover": "",
       "duration": 195000,
@@ -370,6 +396,7 @@
     },
     {
       "albumName": "",
+      "artistId": 1,
       "artistName": "Guru Randhawa",
       "cover": "",
       "duration": 186000,
@@ -383,6 +410,7 @@
     },
     {
       "albumName": "",
+      "artistId": 1,
       "artistName": "Guru Randhawa, Jay Sean, Vee",
       "cover": "",
       "duration": 201600,
@@ -396,6 +424,7 @@
     },
     {
       "albumName": "",
+      "artistId": 1,
       "artistName": "Guru Randhawa, Payal Dev, Vee",
       "cover": "",
       "duration": 153000,
@@ -409,6 +438,7 @@
     },
     {
       "albumName": "",
+      "artistId": 1,
       "artistName": "Vee, Guru Randhawa",
       "cover": "",
       "duration": 186000,
@@ -422,6 +452,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar",
       "cover": "",
       "duration": 147600,
@@ -435,6 +466,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Meet Bros, Neha Kakkar",
       "cover": "",
       "duration": 204600,
@@ -448,6 +480,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar, Tulsi Kumar, Arko",
       "cover": "",
       "duration": 247200,
@@ -461,6 +494,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar, Mika Singh, Kumar Sanu",
       "cover": "",
       "duration": 199200,
@@ -474,6 +508,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar, Yo Yo Honey Singh",
       "cover": "",
       "duration": 243000,
@@ -487,6 +522,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Himesh Reshammiya, Neha Kakkar",
       "cover": "",
       "duration": 205200,
@@ -500,6 +536,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar",
       "cover": "",
       "duration": 248400,
@@ -513,6 +550,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Aman Trikha, Neha Kakkar, Varun Likhate",
       "cover": "",
       "duration": 208200,
@@ -526,6 +564,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar, Tony Kakkar, Bohemia",
       "cover": "",
       "duration": 264000,
@@ -539,6 +578,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar, Benny Dayal, Tony Kakkar",
       "cover": "",
       "duration": 186000,
@@ -552,6 +592,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar,Guru Randhawa,Sachet-Parampara",
       "cover": "",
       "duration": 241800,
@@ -565,6 +606,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Dev Negi, Neha Kakkar, Monali Thakur, Ikka, Rajnigandha Shekhawat",
       "cover": "",
       "duration": 195600,
@@ -578,6 +620,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar, Romy, Shashwat Sachdev",
       "cover": "",
       "duration": 207600,
@@ -591,6 +634,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar, Tony Kakkar",
       "cover": "",
       "duration": 194400,
@@ -604,6 +648,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar, Farhan Sabri, Dj Chetas",
       "cover": "",
       "duration": 196200,
@@ -617,6 +662,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Prashant Pillai, Tony Kakkar, Neha Kakkar, Amrita Rao, Sanker Sharma",
       "cover": "",
       "duration": 207600,
@@ -630,6 +676,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Dev Negi, Neha Kakkar",
       "cover": "",
       "duration": 252600,
@@ -643,6 +690,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Arun, Neha Kakkar, Romy, Ikka",
       "cover": "",
       "duration": 189600,
@@ -656,6 +704,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar, Udit Narayan",
       "cover": "",
       "duration": 205200,
@@ -669,6 +718,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Navraj Hans, Yo Yo Honey Singh, Neha Kakkar",
       "cover": "",
       "duration": 194400,
@@ -682,6 +732,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar, Gippy Grewal, Parichay",
       "cover": "",
       "duration": 202800,
@@ -695,6 +746,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar, Young Desi, Tony Kakkar",
       "cover": "",
       "duration": 155400,
@@ -708,6 +760,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar, Aishwarya Nigam",
       "cover": "",
       "duration": 202800,
@@ -721,6 +774,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar",
       "cover": "",
       "duration": 189600,
@@ -734,6 +788,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Nakash Aziz, Neha Kakkar",
       "cover": "",
       "duration": 186000,
@@ -747,6 +802,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar, Tony Kakkar",
       "cover": "",
       "duration": 154200,
@@ -760,6 +816,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar, Palak Muchhal, Udit Narayan, Raja Hasan",
       "cover": "",
       "duration": 201600,
@@ -773,6 +830,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Yasser Desai, Neha Kakkar, Rajat Nagpal",
       "cover": "",
       "duration": 246600,
@@ -786,6 +844,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar, Dhvani Bhanushali, Ikka",
       "cover": "",
       "duration": 182400,
@@ -799,6 +858,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar, Rohanpreet Singh",
       "cover": "",
       "duration": 246600,
@@ -812,6 +872,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar",
       "cover": "",
       "duration": 215400,
@@ -825,6 +886,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar, Raftaar, Yasser Desai",
       "cover": "",
       "duration": 199800,
@@ -838,6 +900,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar, Tony Kakkar",
       "cover": "",
       "duration": 187800,
@@ -851,6 +914,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar, Yash Narvekar",
       "cover": "",
       "duration": 186000,
@@ -864,6 +928,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Tony Kakkar, Neha Kakkar",
       "cover": "",
       "duration": 257400,
@@ -877,6 +942,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar",
       "cover": "",
       "duration": 152400,
@@ -890,6 +956,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Badshah, Neha Kakkar",
       "cover": "",
       "duration": 181200,
@@ -903,6 +970,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar",
       "cover": "",
       "duration": 245400,
@@ -916,6 +984,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar, Sukhwinder Singh, Sandesh Shandilya",
       "cover": "",
       "duration": 202800,
@@ -929,6 +998,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Garry Sandhu, Neha Kakkar, Mellow D",
       "cover": "",
       "duration": 197400,
@@ -942,6 +1012,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar, Tony Kakkar",
       "cover": "",
       "duration": 242400,
@@ -955,6 +1026,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Jaz Dhami, Neha Kakkar, Ikka",
       "cover": "",
       "duration": 207000,
@@ -968,6 +1040,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Mika Singh, Neha Kakkar",
       "cover": "",
       "duration": 126600,
@@ -981,6 +1054,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar, B Praak",
       "cover": "",
       "duration": 265200,
@@ -994,6 +1068,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Clinton Cerejo, Neha Kakkar",
       "cover": "",
       "duration": 186600,
@@ -1007,6 +1082,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Amar Arshi, Badshah, Neha Kakkar",
       "cover": "",
       "duration": 184200,
@@ -1020,6 +1096,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar",
       "cover": "",
       "duration": 148200,
@@ -1033,6 +1110,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Tony Kakkar, Yo Yo Honey Singh, Neha Kakkar",
       "cover": "",
       "duration": 196200,
@@ -1046,6 +1124,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Badshah, Amaal Mallik, Fazilpuria, Sukriti Kakar, Neha Kakkar",
       "cover": "",
       "duration": 184200,
@@ -1059,6 +1138,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar, Rohanpreet Singh",
       "cover": "",
       "duration": 194400,
@@ -1072,6 +1152,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar",
       "cover": "",
       "duration": 186000,
@@ -1085,6 +1166,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar, Vishal Mishra",
       "cover": "",
       "duration": 313200,
@@ -1098,6 +1180,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Daler Mehndi, Neha Kakkar",
       "cover": "",
       "duration": 199200,
@@ -1111,6 +1194,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar, Bilal Saeed",
       "cover": "",
       "duration": 184200,
@@ -1124,6 +1208,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Jassie Gill, Neha Kakkar, Meet Bros",
       "cover": "",
       "duration": 243600,
@@ -1137,6 +1222,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Raftaar, Neha Kakkar, Manj Musik",
       "cover": "",
       "duration": 192600,
@@ -1150,6 +1236,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Anu Malik, Neha Kakkar",
       "cover": "",
       "duration": 194400,
@@ -1163,6 +1250,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Amit Trivedi, Neha Kakkar, Sonu Kakkar, Labh Janjua",
       "cover": "",
       "duration": 210000,
@@ -1176,6 +1264,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar",
       "cover": "",
       "duration": 363000,
@@ -1189,6 +1278,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Arijit Singh, Neha Kakkar",
       "cover": "",
       "duration": 261600,
@@ -1202,6 +1292,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Lil Golu, Neha Kakkar",
       "cover": "",
       "duration": 193800,
@@ -1215,6 +1306,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar",
       "cover": "",
       "duration": 154200,
@@ -1228,6 +1320,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar, Aishwarya Nigam",
       "cover": "",
       "duration": 214200,
@@ -1241,6 +1334,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar",
       "cover": "",
       "duration": 243600,
@@ -1254,6 +1348,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar, Yasser Desai, Raftaar, Mohammed Rafi ",
       "cover": "",
       "duration": 155400,
@@ -1267,6 +1362,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Shamir Tandon, Neha Kakkar",
       "cover": "",
       "duration": 213000,
@@ -1280,6 +1376,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar, Nakash Aziz",
       "cover": "",
       "duration": 191400,
@@ -1293,6 +1390,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar, Raja Hasan",
       "cover": "",
       "duration": 184800,
@@ -1306,6 +1404,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Shaan, Neha Kakkar, Parthiv Gohil, Sangeeta Labadiya",
       "cover": "",
       "duration": 313200,
@@ -1319,6 +1418,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar, Ayushmann Khurrana, Rochak Kohli",
       "cover": "",
       "duration": 260400,
@@ -1332,6 +1432,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Arijit Singh",
       "cover": "",
       "duration": 207000,
@@ -1345,6 +1446,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar, Amjad Khan",
       "cover": "",
       "duration": 214800,
@@ -1358,6 +1460,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar",
       "cover": "",
       "duration": 141000,
@@ -1371,6 +1474,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar",
       "cover": "",
       "duration": 252600,
@@ -1384,6 +1488,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar, Tulsi Kumar, B Praak",
       "cover": "",
       "duration": 186600,
@@ -1397,6 +1502,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar, Sachin-Jigar, Darshan Raval",
       "cover": "",
       "duration": 189000,
@@ -1410,6 +1516,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar, Sonu Kakkar, Tony Kakkar",
       "cover": "",
       "duration": 191400,
@@ -1423,6 +1530,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar, Tony Kakkar",
       "cover": "",
       "duration": 154800,
@@ -1436,6 +1544,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar",
       "cover": "",
       "duration": 153000,
@@ -1449,6 +1558,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Mika Singh, Payal Dev, Neha Kakkar, Badshah",
       "cover": "",
       "duration": 207600,
@@ -1462,6 +1572,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Pritam, Miss Pooja, Neha Kakkar, Nakkash Aziz",
       "cover": "",
       "duration": 241200,
@@ -1475,6 +1586,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar, Maninder Buttar",
       "cover": "",
       "duration": 195000,
@@ -1488,6 +1600,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Yo Yo Honey Singh, Neha Kakkar",
       "cover": "",
       "duration": 241800,
@@ -1501,6 +1614,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar , Vibhor Parashar",
       "cover": "",
       "duration": 190200,
@@ -1514,6 +1628,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Manoj Santoshi, Sonu Kakkar, Neha Kakkar",
       "cover": "",
       "duration": 257400,
@@ -1527,6 +1642,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar, Jubin Nautiyal, Jaani",
       "cover": "",
       "duration": 210000,
@@ -1540,6 +1656,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Meet Bros, Neha Kakkar, Deep Money",
       "cover": "",
       "duration": 206400,
@@ -1553,6 +1670,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar,Pardeep Sran",
       "cover": "",
       "duration": 184200,
@@ -1566,6 +1684,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Darshan Raval, Neha Kakkar, Manan Bhardwaj",
       "cover": "",
       "duration": 252600,
@@ -1579,6 +1698,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Javed-Mohsin, Dev Negi, Neha Kakkar",
       "cover": "",
       "duration": 193200,
@@ -1592,6 +1712,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Vishal-Shekhar, Neha Kakkar, Shekhar Ravjiani",
       "cover": "",
       "duration": 200400,
@@ -1605,6 +1726,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar, Benny Dayal, Brijesh Shandilya, Badshah",
       "cover": "",
       "duration": 200400,
@@ -1618,6 +1740,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar, Rochak, Arijit Singh",
       "cover": "",
       "duration": 192600,
@@ -1631,6 +1754,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Meet Bros, Neha Kakkar",
       "cover": "",
       "duration": 246600,
@@ -1644,6 +1768,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar, Mika Singh",
       "cover": "",
       "duration": 154800,
@@ -1657,6 +1782,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar, Sukh-E Muzical Doctorz",
       "cover": "",
       "duration": 153600,
@@ -1670,6 +1796,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Meet Bros, Neha Kakkar, Khushboo Grewal",
       "cover": "",
       "duration": 246600,
@@ -1683,6 +1810,7 @@
     },
     {
       "albumName": "",
+      "artistId": 2,
       "artistName": "Neha Kakkar, Tanishk Bagchi",
       "cover": "",
       "duration": 249600,
@@ -1696,6 +1824,7 @@
     },
     {
       "albumName": "",
+      "artistId": 3,
       "artistName": "Yo Yo Honey Singh",
       "cover": "",
       "duration": 242400,
@@ -1709,6 +1838,7 @@
     },
     {
       "albumName": "",
+      "artistId": 3,
       "artistName": "Yo Yo Honey Singh, Mamta Sharma, Nitu Choudhary",
       "cover": "",
       "duration": 188400,
@@ -1722,6 +1852,7 @@
     },
     {
       "albumName": "",
+      "artistId": 3,
       "artistName": "Pritam, Benny Dayal, Shefali Alvares, Yo Yo Honey Singh",
       "cover": "",
       "duration": 196200,
@@ -1735,6 +1866,7 @@
     },
     {
       "albumName": "",
+      "artistId": 3,
       "artistName": "Yo Yo Honey Singh",
       "cover": "",
       "duration": 192000,
@@ -1748,6 +1880,7 @@
     },
     {
       "albumName": "",
+      "artistId": 3,
       "artistName": "Yo Yo Honey Singh",
       "cover": "",
       "duration": 243600,
@@ -1761,6 +1894,7 @@
     },
     {
       "albumName": "",
+      "artistId": 3,
       "artistName": "Yo Yo Honey Singh, Simar Kaur, Singhsta",
       "cover": "",
       "duration": 201000,
@@ -1774,6 +1908,7 @@
     },
     {
       "albumName": "",
+      "artistId": 3,
       "artistName": "Singhsta , Honey Singh",
       "cover": "",
       "duration": 204000,
@@ -1787,6 +1922,7 @@
     },
     {
       "albumName": "",
+      "artistId": 3,
       "artistName": "Yo Yo Honey Singh, Alfaaz",
       "cover": "",
       "duration": 247200,
@@ -1800,6 +1936,7 @@
     },
     {
       "albumName": "",
+      "artistId": 3,
       "artistName": "Yo Yo Honey Singh",
       "cover": "",
       "duration": 198000,
@@ -1813,6 +1950,7 @@
     },
     {
       "albumName": "",
+      "artistId": 3,
       "artistName": "Yo Yo Honey Singh",
       "cover": "",
       "duration": 201600,
@@ -1826,6 +1964,7 @@
     },
     {
       "albumName": "",
+      "artistId": 3,
       "artistName": "Sweetaj Brar, Yo Yo Honey Singh",
       "cover": "",
       "duration": 187800,
@@ -1839,6 +1978,7 @@
     },
     {
       "albumName": "",
+      "artistId": 3,
       "artistName": "Yo Yo Honey Singh",
       "cover": "",
       "duration": 207000,
@@ -1852,6 +1992,7 @@
     },
     {
       "albumName": "",
+      "artistId": 3,
       "artistName": "Navraj Hans, Yo Yo Honey Singh, Neha Kakkar",
       "cover": "",
       "duration": 194400,
@@ -1865,6 +2006,7 @@
     },
     {
       "albumName": "",
+      "artistId": 3,
       "artistName": "Mika Singh, Yo Yo Honey Singh",
       "cover": "",
       "duration": 243000,
@@ -1878,6 +2020,7 @@
     },
     {
       "albumName": "",
+      "artistId": 3,
       "artistName": "Yo Yo Honey Singh, Simar Kaur, Ishers",
       "cover": "",
       "duration": 207600,
@@ -1891,6 +2034,7 @@
     },
     {
       "albumName": "",
+      "artistId": 3,
       "artistName": "Yo Yo Honey Singh, Ipsitaa",
       "cover": "",
       "duration": 203400,
@@ -1904,6 +2048,7 @@
     },
     {
       "albumName": "",
+      "artistId": 3,
       "artistName": "Yo Yo Honey Singh",
       "cover": "",
       "duration": 139800,
@@ -1917,6 +2062,7 @@
     },
     {
       "albumName": "",
+      "artistId": 3,
       "artistName": "Yo Yo Honey Singh",
       "cover": "",
       "duration": 214800,
@@ -1930,6 +2076,7 @@
     },
     {
       "albumName": "",
+      "artistId": 3,
       "artistName": "Singhsta, Yo Yo Honey Singh",
       "cover": "",
       "duration": 148800,
@@ -1943,6 +2090,7 @@
     },
     {
       "albumName": "",
+      "artistId": 3,
       "artistName": "Yo Yo Honey Singh, Ashok Mastie, Jyotica Tangri",
       "cover": "",
       "duration": 154800,
@@ -1956,6 +2104,7 @@
     },
     {
       "albumName": "",
+      "artistId": 3,
       "artistName": "Malkit Singh, Yo Yo Honey Singh",
       "cover": "",
       "duration": 198600,
@@ -1969,6 +2118,7 @@
     },
     {
       "albumName": "",
+      "artistId": 3,
       "artistName": "Himesh Reshammiya, Yo Yo Honey Singh",
       "cover": "",
       "duration": 254400,
@@ -1982,6 +2132,7 @@
     },
     {
       "albumName": "",
+      "artistId": 3,
       "artistName": "Vishal Bhardwaj, Sukhwinder Singh, Yo Yo Honey Singh, Anushka Manchanda",
       "cover": "",
       "duration": 262800,
@@ -1995,6 +2146,7 @@
     },
     {
       "albumName": "",
+      "artistId": 3,
       "artistName": "Himesh Reshammiya, Yo Yo Honey Singh, Palak Muchhal",
       "cover": "",
       "duration": 331200,
@@ -2008,6 +2160,7 @@
     },
     {
       "albumName": "",
+      "artistId": 3,
       "artistName": "Yo Yo Honey Singh",
       "cover": "",
       "duration": 148800,
@@ -2021,6 +2174,7 @@
     },
     {
       "albumName": "",
+      "artistId": 3,
       "artistName": "Tony Kakkar, Yo Yo Honey Singh, Neha Kakkar",
       "cover": "",
       "duration": 196200,
@@ -2034,6 +2188,7 @@
     },
     {
       "albumName": "",
+      "artistId": 3,
       "artistName": "Gajendra Verma, Vikram Singh, Yo Yo Honey Singh",
       "cover": "",
       "duration": 204000,
@@ -2047,6 +2202,7 @@
     },
     {
       "albumName": "",
+      "artistId": 3,
       "artistName": "Yo Yo Honey Singh, Simar Kaur",
       "cover": "",
       "duration": 198000,
@@ -2060,6 +2216,7 @@
     },
     {
       "albumName": "",
+      "artistId": 3,
       "artistName": "Himesh Reshammiya, Yo Yo Honey Singh, Hamsika Iyer",
       "cover": "",
       "duration": 244800,
@@ -2073,6 +2230,7 @@
     },
     {
       "albumName": "",
+      "artistId": 3,
       "artistName": "Asees Kaur, Atif Aslam, Badshah, Darshan Raval, Dev Negi, Divya Kumar, Falguni Pathak, Jubin Nautiyal, Neha Kakkar, Palak Muchhal, Raja Hasan, Udit Narayan, Yo Yo Honey Singh, Lijo George, Tanishk Bagchi, Kaushik-Akash-Guddu (Jam8), Dj Chetas",
       "cover": "",
       "duration": 240000,
@@ -2086,6 +2244,7 @@
     },
     {
       "albumName": "",
+      "artistId": 3,
       "artistName": "Pritam, Imran Aziz Mian, Yo Yo Honey Singh",
       "cover": "",
       "duration": 255000,
@@ -2099,6 +2258,7 @@
     },
     {
       "albumName": "",
+      "artistId": 3,
       "artistName": "Yo Yo Honey Singh, Neha Kakkar, Ekaterina Sizova",
       "cover": "",
       "duration": 184200,
@@ -2112,6 +2272,7 @@
     },
     {
       "albumName": "",
+      "artistId": 3,
       "artistName": "KK, Shefali Alvares",
       "cover": "",
       "duration": 265800,
@@ -2125,6 +2286,7 @@
     },
     {
       "albumName": "",
+      "artistId": 3,
       "artistName": "Yo Yo Honey Singh",
       "cover": "",
       "duration": 312600,
@@ -2138,6 +2300,7 @@
     },
     {
       "albumName": "",
+      "artistId": 3,
       "artistName": "Ritu Pathak, Yo Yo Honey Singh",
       "cover": "",
       "duration": 208800,
@@ -2151,6 +2314,7 @@
     },
     {
       "albumName": "",
+      "artistId": 3,
       "artistName": "Yo Yo Honey Singh, Jasmine Sandlas",
       "cover": "",
       "duration": 273000,
@@ -2164,6 +2328,7 @@
     },
     {
       "albumName": "",
+      "artistId": 3,
       "artistName": "Dev Negi, Yo Yo Honey Singh",
       "cover": "",
       "duration": 202200,
@@ -2177,6 +2342,7 @@
     },
     {
       "albumName": "",
+      "artistId": 3,
       "artistName": "Himesh Reshammiya, Mika Singh, Bhavya Pandit, Yo Yo Honey Singh",
       "cover": "",
       "duration": 207000,
@@ -2190,6 +2356,7 @@
     },
     {
       "albumName": "",
+      "artistId": 3,
       "artistName": "Yo Yo Honey Singh, Neha Kakkar",
       "cover": "",
       "duration": 195000,
@@ -2203,6 +2370,7 @@
     },
     {
       "albumName": "",
+      "artistId": 3,
       "artistName": "Yo Yo Honey Singh, Hommie Dilliwala",
       "cover": "",
       "duration": 196800,
@@ -2216,6 +2384,7 @@
     },
     {
       "albumName": "",
+      "artistId": 3,
       "artistName": "Yo Yo Honey Singh, Neha Kakkar",
       "cover": "",
       "duration": 241800,
@@ -2229,6 +2398,7 @@
     },
     {
       "albumName": "",
+      "artistId": 3,
       "artistName": "Yo Yo Honey Singh",
       "cover": "",
       "duration": 210600,
@@ -2242,6 +2412,7 @@
     },
     {
       "albumName": "",
+      "artistId": 3,
       "artistName": "Himesh Reshammiya, Yo Yo Honey Singh, Shalmali Kholgade",
       "cover": "",
       "duration": 319200,
@@ -2255,6 +2426,7 @@
     },
     {
       "albumName": "",
+      "artistId": 3,
       "artistName": "Yo Yo Honey Singh",
       "cover": "",
       "duration": 201000,
@@ -2268,6 +2440,7 @@
     },
     {
       "albumName": "",
+      "artistId": 3,
       "artistName": "Yo Yo Honey Singh",
       "cover": "",
       "duration": 150000,
@@ -2281,6 +2454,7 @@
     },
     {
       "albumName": "",
+      "artistId": 3,
       "artistName": "Yo Yo Honey Singh, Jasmine Sandlas",
       "cover": "",
       "duration": 241800,
@@ -2294,6 +2468,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Badshah, Shraddha Pandit",
       "cover": "",
       "duration": 198000,
@@ -2307,6 +2482,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Badshah, Nikhita Gandhi, Sachin-Jigar",
       "cover": "",
       "duration": 151800,
@@ -2320,6 +2496,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Amit Bhadana, Badshah",
       "cover": "",
       "duration": 331200,
@@ -2333,6 +2510,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Badshah, Aastha",
       "cover": "",
       "duration": 155400,
@@ -2346,6 +2524,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Badshah, Sikander Kahlon",
       "cover": "",
       "duration": 258600,
@@ -2359,6 +2538,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Badshah, Jubin Nautiyal, Asees Kaur",
       "cover": "",
       "duration": 180000,
@@ -2372,6 +2552,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Badshah",
       "cover": "",
       "duration": 134400,
@@ -2385,6 +2566,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Badshah",
       "cover": "",
       "duration": 271200,
@@ -2398,6 +2580,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Badshah, Reet Talwar, Hiten",
       "cover": "",
       "duration": 188400,
@@ -2411,6 +2594,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Badshah, Uchana Amit",
       "cover": "",
       "duration": 184800,
@@ -2424,6 +2608,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Vishal Dadlani, Shalmali Kholgade, Ishita, Badshah",
       "cover": "",
       "duration": 247800,
@@ -2437,6 +2622,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Badshah, DIVINE, Jonita Gandhi, Mikey McCleary",
       "cover": "",
       "duration": 205200,
@@ -2450,6 +2636,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Badshah, Aastha Gill, Sahdev Dirdo, Rico",
       "cover": "",
       "duration": 181800,
@@ -2463,6 +2650,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Gippy Grewal, Badshah",
       "cover": "",
       "duration": 145200,
@@ -2476,6 +2664,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Badshah, Neeti Mohan",
       "cover": "",
       "duration": 154800,
@@ -2489,6 +2678,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Badshah",
       "cover": "",
       "duration": 191400,
@@ -2502,6 +2692,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Payal Dev, Badshah, Vishal Dadlani, Rishi Rich",
       "cover": "",
       "duration": 200400,
@@ -2515,6 +2706,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Badshah",
       "cover": "",
       "duration": 140400,
@@ -2528,6 +2720,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Badshah , Fotty Seven",
       "cover": "",
       "duration": 140400,
@@ -2541,6 +2734,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Vishal Dadlani, Armaan Malik, Badshah, Amaal Mallik",
       "cover": "",
       "duration": 200400,
@@ -2554,6 +2748,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Badshah, Harrdy Sandhu, Tanishk Bagchi, Lisa Mishra, Asees Kaur",
       "cover": "",
       "duration": 195000,
@@ -2567,6 +2762,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Badshah",
       "cover": "",
       "duration": 180600,
@@ -2580,6 +2776,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Raftaar, Aastha Gill, Badshah",
       "cover": "",
       "duration": 151800,
@@ -2593,6 +2790,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Badshah",
       "cover": "",
       "duration": 145200,
@@ -2606,6 +2804,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Sachin-Jigar, Badshah, Shalmali Kholgade, Gurdeep Mehendi",
       "cover": "",
       "duration": 146400,
@@ -2619,6 +2818,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Daler Mehndi, Tanishka Sanghvi, Badshah, Divya Kumar",
       "cover": "",
       "duration": 428400,
@@ -2632,6 +2832,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Bali, Badshah",
       "cover": "",
       "duration": 154800,
@@ -2645,6 +2846,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Badshah,Shehnaaz Gill,Badshah,Uchana Amit",
       "cover": "",
       "duration": 145200,
@@ -2658,6 +2860,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Badshah",
       "cover": "",
       "duration": 213000,
@@ -2671,6 +2874,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "",
       "cover": "",
       "duration": 181200,
@@ -2684,6 +2888,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Badshah,Payal Dev",
       "cover": "",
       "duration": 150000,
@@ -2697,6 +2902,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Badshah",
       "cover": "",
       "duration": 201600,
@@ -2710,6 +2916,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Badshah",
       "cover": "",
       "duration": 139200,
@@ -2723,6 +2930,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Badshah",
       "cover": "",
       "duration": 198000,
@@ -2736,6 +2944,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Badshah, Aastha Gill",
       "cover": "",
       "duration": 147600,
@@ -2749,6 +2958,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Badshah",
       "cover": "",
       "duration": 133800,
@@ -2762,6 +2972,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Badshah, Fotty Seven, Bali",
       "cover": "",
       "duration": 250800,
@@ -2775,6 +2986,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Badshah",
       "cover": "",
       "duration": 153000,
@@ -2788,6 +3000,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Badshah",
       "cover": "",
       "duration": 201000,
@@ -2801,6 +3014,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Badshah",
       "cover": "",
       "duration": 210000,
@@ -2814,6 +3028,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Amar Arshi, Badshah, Neha Kakkar",
       "cover": "",
       "duration": 184200,
@@ -2827,6 +3042,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Badshah, Jonita Gandhi",
       "cover": "",
       "duration": 141000,
@@ -2840,6 +3056,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Badshah, Uchana Amit",
       "cover": "",
       "duration": 154800,
@@ -2853,6 +3070,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Badshah, Amaal Mallik, Fazilpuria, Sukriti Kakar, Neha Kakkar",
       "cover": "",
       "duration": 184200,
@@ -2866,6 +3084,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Badshah, Jasbir Jassi, Dhvani Bhanushali",
       "cover": "",
       "duration": 150600,
@@ -2879,6 +3098,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Nucleya, Benny Dayal, Badshah",
       "cover": "",
       "duration": 201000,
@@ -2892,6 +3112,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Juggy D, Yash Narvekar, Badshah, Sukriti Kakar",
       "cover": "",
       "duration": 186600,
@@ -2905,6 +3126,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Badshah, Mamta Sharma, Kamaal Khan",
       "cover": "",
       "duration": 243600,
@@ -2918,6 +3140,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Badshah",
       "cover": "",
       "duration": 149400,
@@ -2931,6 +3154,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Badshah,Aastha Gill",
       "cover": "",
       "duration": 152400,
@@ -2944,6 +3168,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Aastha Gill, Badshah, Diljit Dosanjh",
       "cover": "",
       "duration": 154800,
@@ -2957,6 +3182,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "KRSNA , Badshah",
       "cover": "",
       "duration": 189000,
@@ -2970,6 +3196,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Badshah, Rico",
       "cover": "",
       "duration": 190200,
@@ -2983,6 +3210,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Badshah, Payal Dev",
       "cover": "",
       "duration": 142800,
@@ -2996,6 +3224,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Toshi Sabri, Badshah, Indeep Bakshi, Akriti Kakar",
       "cover": "",
       "duration": 198000,
@@ -3009,6 +3238,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Mika Singh, Payal Dev, Neha Kakkar, Badshah",
       "cover": "",
       "duration": 207600,
@@ -3022,6 +3252,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Badshah",
       "cover": "",
       "duration": 135600,
@@ -3035,6 +3266,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Badshah, Tulsi Kumar, Abhijeet, Chandra Dixit",
       "cover": "",
       "duration": 151800,
@@ -3048,6 +3280,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Badshah",
       "cover": "",
       "duration": 121800,
@@ -3061,6 +3294,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Badshah,Payal Dev",
       "cover": "",
       "duration": 204000,
@@ -3074,6 +3308,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Bappi Lahiri, Anuradha Paudwal, Badshah",
       "cover": "",
       "duration": 191400,
@@ -3087,6 +3322,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Badshah, QARAN",
       "cover": "",
       "duration": 183600,
@@ -3100,6 +3336,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Sunanda Sharma, Badshah",
       "cover": "",
       "duration": 147600,
@@ -3113,6 +3350,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Pritam, Arijit Singh, Badshah, Jonita Gandhi, Nakash Aziz",
       "cover": "",
       "duration": 247200,
@@ -3126,6 +3364,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "A.R. Rahman, Badshah, Tanishk Bagchi, Shashaa Tirupati, Jubin Nautiyal",
       "cover": "",
       "duration": 155400,
@@ -3139,6 +3378,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Badshah, Lisa Mishra",
       "cover": "",
       "duration": 184800,
@@ -3152,6 +3392,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Uchana Amit, Badshah, Yuvan Shankar Raja",
       "cover": "",
       "duration": 195000,
@@ -3165,6 +3406,7 @@
     },
     {
       "albumName": "",
+      "artistId": 4,
       "artistName": "Badshah, Payal Dev",
       "cover": "",
       "duration": 261000,

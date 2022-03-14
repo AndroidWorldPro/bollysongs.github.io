@@ -1,0 +1,26 @@
+{
+  "error": false,
+  "msg": "Success",
+  "artistsList": [
+    {
+      "artist_id": 1,
+      "artist_name": "Guru Randhawa",
+      "artist_img": ""
+    },
+    {
+      "artist_id": 2,
+      "artist_name": "Neha Kakkar",
+      "artist_img": ""
+    },
+    {
+      "artist_id": 3,
+      "artist_name": "Honey Singh",
+      "artist_img": ""
+    },
+    {
+      "artist_id": 4,
+      "artist_name": "Badshah",
+      "artist_img": ""
+    }
+  ]
+}
